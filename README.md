@@ -1,53 +1,9 @@
-###  My Github stats:
-  
+<h1 align="center">Hi 👋</h1>
 
-<div align=center>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=IntizarA&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=IntizarA&theme=tokyonight&hide_border=true" />
-  <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IntizarA&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" />  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IntizarA&label=Profile%20views&color=0e75b6&style=flat" alt="IntizarA" /> </p>
 
-</div>
- 
-
-<br>
-
-<div align=center>
-  
-  | ![](https://komarev.com/ghpvc/?username=IntizarA&color=blue) |
- 
-  *started counting on 23/09/2021
-  
-</div>
-
-<!-- <div align=center>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntizarA&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</div> -->
-
-<br>
-
-[//]: # (started counting on 23/09/2021)
-
-
-
-
-
-
-
-<!-- <p align = "center">
-## Connect with me:
-
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/Cavid386/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Cavid386) 
-  <a href="mailto:hcavid386@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>[<img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cavid-haciyev-386hc/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@hcavid386)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_javid_hc/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/intizar-al%C4%B1yeva-2784b7193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IntizarA/" height="30" width="40" /></a>
 </p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/CavidH/count.svg" />
-</p>
-<br />
-<br />
-
-</p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IntizarA&show_icons=true&locale=en&layout=compact" alt="IntizarA" /></p>
