@@ -10,6 +10,4 @@
   <img align="right" height="215em"  alt="IntizarA's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntizarA&theme=chartreuse-dark" />
 
 </div>
-<div style="margin-bottom:10em">
-  <img align="left" height="215em"  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=IntizarA&theme=chartreuse-dark" />
-</div>
+
