@@ -18,7 +18,7 @@
 > 💬 “Just a girl who turns coffee into code, pixels into worlds, and bugs into... more bugs (but fewer, promise!)”
 
 - 🧠 Software Engineer passionate about **building clean systems**
-- 🎮 Also a **Unity Game Developer**
+- 🎮 **Unity Game Developer**
 - 🧪 Always curious
 
 ---
