@@ -1,4 +1,4 @@
-<h1 align="center">✨Hi there, I'm Intizar Aliyeva ✨</h1>
+<h1 align="center">✨Hi there, I'm Intizar ✨</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRjMW8zdnhtaHNhMDRncWp0MjB1ZnM3ODQyeDRrZ2owanZmcGE5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/137EaR4vAOCn1S/giphy.gif" />
