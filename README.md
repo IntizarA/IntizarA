@@ -15,7 +15,7 @@
 
 ### 👩‍💻 Who am I?
 
-> 💬 “Just a girl who turns coffee into code, pixels into worlds, and bugs into... more bugs (but fewer, promise!)”
+> 💬 “Just a girl who turns coffee into code, pixels into worlds, and bugs into...”
 
 - 🧠 Software Engineer passionate about **building clean systems**
 - 🎮 **Unity Game Developer**
